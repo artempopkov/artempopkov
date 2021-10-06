@@ -5,8 +5,7 @@
 
 <img src="https://purepng.com/public/uploads/medium/purepng.com-rubyrubyblood-redgemstonemineral-corundumgemsapphires-1701528980196e1akb.png" width="240px" align="right">
 
-## I'm a Developer!
-- I’m currently learning Ruby, JavaScript, Html, CSS
+## I’m currently learning Ruby, JavaScript, Html, CSS
 
 <br />
 
